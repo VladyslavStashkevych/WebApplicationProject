@@ -19,7 +19,7 @@ such as empty field, invalid value type and negative number for "Cost" field. Al
 <h4>Cosmetic changes</h4>
 -Now every page has its own title "Action - List".
 -Blue "Update" button is now green "Edit". 
--"Purchase Name" was changed to "Expense", "Cost" to "Amount". 
+-"My Borrowed Items" is now "Borrowed Items", "My expenses List" - "My Expenses List", "Purchase Name" was changed to "Expense", "Cost" to "Amount". 
 -Blue "Create new Item" button is now dark-outlined "Add new Item" button. 
  it also fills with grey color, when mouse is on this button.  
 -"Edit" and "Delete" button have now equal size, normal space in-beetween and rounded shape. 
