@@ -12,13 +12,13 @@ This is a list with same functionality as previous, but it also has "Update" and
 
 <h2>Version 1.1</h2>
 <h4>Bug fixes</h4>
--Default route was changed from "/Home/Index/" to "Item/Index".
--"Delete" button is now redirecting to "/Delete". Earlier it was"/DeletePost".
+<p>-Default route was changed from "/Home/Index/" to "Item/Index".
+<p>-"Delete" button is now redirecting to "/Delete". Earlier it was"/DeletePost".
 <h2></h2>
 <h4>Cosmetic changes</h4>
 
--Now every page has its own title "Action - List".
--Blue "Update" button is now green "Edit".
--"Purchase Name" was changed to "Expense", "Cost" to "Amount".
--Blue "Create new Item" button is now dark-outlined "Add new Item" button. And it fills with grey color, when mouse is on this button.
--"Edit" and "Delete" button have now equal size, normal space in-beetween and rounded shape.
+<p>-Now every page has its own title "Action - List".
+<p>-Blue "Update" button is now green "Edit".
+<p>-"Purchase Name" was changed to "Expense", "Cost" to "Amount".
+<p>-Blue "Create new Item" button is now dark-outlined "Add new Item" button. And it fills with grey color, when mouse is on this button.
+<p>-"Edit" and "Delete" button have now equal size, normal space in-beetween and rounded shape.
