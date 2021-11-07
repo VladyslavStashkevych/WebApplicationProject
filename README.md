@@ -14,7 +14,7 @@ such as empty field, invalid value type and negative number for "Cost" field. Al
 <pre>
 <h2>Version 1.1</h2>
 <h4>Bug fixes</h4>
--Default route was changed from "/Home/Index/" to "Item/Index".
+-Default route was changed from "/Home/Index" to "/Item/Index".
 -"Delete" button is now redirecting to "/Delete". Earlier it was"/DeletePost".
 <h4>Cosmetic changes</h4>
 -Now every page has its own title "Action - List".
